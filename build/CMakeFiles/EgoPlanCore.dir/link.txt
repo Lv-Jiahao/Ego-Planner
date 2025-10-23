@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -g  -rdynamic CMakeFiles/EgoPlanCore.dir/main.cpp.o  -o EgoPlanCore  planner/bspline_opt/libbspline_opt.a planner/path_searching/libpath_searching.a planner/plan_env/liblocal_map.a -lpython3.8 planner/plan_manage/libego_planner.a planner/bspline_opt/libbspline_opt.a planner/path_searching/libpath_searching.a planner/plan_env/liblocal_map.a 
